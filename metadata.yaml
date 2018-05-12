@@ -1,0 +1,28 @@
+_repo: A-Letter-to-the-Right-Hon.-Lord-Bexleycontaining-a-statement-to-the-committee-of-the-British-__39139
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cunningham, Francis
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '39861'
+    url: http://www.gutenberg.org/2009/agents/39861
+description: ''
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British and Foreign Bible Society'
+- !lcc 'BV'
+title: "A Letter to the Right Hon. Lord Bexley\r\ncontaining a statement to the committee\
+  \ of the British and Foreign Bible Society, as to the relations of that institution,\
+  \ with France, the valleys of Piedmont, Switzerland and Germany"
+url: http://www.gutenberg.org/ebooks/39139
